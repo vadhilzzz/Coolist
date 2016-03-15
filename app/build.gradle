@@ -1,8 +1,14 @@
 apply plugin: 'com.android.application'
 
 android {
+<<<<<<< HEAD
     compileSdkVersion 21
     buildToolsVersion "23.0.2"
+=======
+    compileSdkVersion 22
+    buildToolsVersion "23.0.2"
+
+>>>>>>> 37863e00ee19896ff2cc183939f11026f4933d4f
     defaultConfig {
         applicationId "com.flipbox.cover.coolist"
         minSdkVersion 15
