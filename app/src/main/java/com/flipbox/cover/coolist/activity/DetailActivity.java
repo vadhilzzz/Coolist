@@ -38,7 +38,7 @@ public class DetailActivity extends ActionBarActivity {
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
         getSupportActionBar().setDisplayShowHomeEnabled(true);
 
-        name = (TextView)findViewById(R.id.Name);
+        name = (TextView)findViewById(R.id.name);
         imageView = (NetworkImageView)findViewById(R.id.thumbnail);
         role = (TextView)findViewById(R.id.role);
         status = (TextView)findViewById(R.id.posisi);

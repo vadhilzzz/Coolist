@@ -90,7 +90,7 @@ public class RegisFragment extends Fragment {
                         int id = obj.getInt("id");
                         String firstName = obj.getString("first_name");
                         String lastName = obj.getString("last_name");
-                        String Name = firstName + " " + lastName;
+                        String name = firstName + " " + lastName;
                         int Role = Integer.parseInt(obj.getString("role_id"));
                         String url_pict = obj.getString("profile_picture");
                         int company = obj.getInt("company_id");
@@ -99,7 +99,7 @@ public class RegisFragment extends Fragment {
                             Toast.makeText(getActivity().getBaseContext(), "This is email had been registered, please login", Toast.LENGTH_LONG).show();
                         }else{
                             if (mListener != null) {
-                                mListener.onFragmentInteraction(Email, Name, Role, url_pict, id, company);
+                                mListener.onFragmentInteraction(Email, name, Role, url_pict, id, company);
                             }
                         }
 

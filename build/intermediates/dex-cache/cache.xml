@@ -2,60 +2,60 @@
 <items version="2" >
 
     <item
-        jar="D:\collist\app\libs\volley.jar"
+        jar="D:\PKL &amp; APPS\collist\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
-        <dex dex="D:\collist\app\build\intermediates\pre-dexed\debug\volley-5607ee60c2a3933ac79b975387a86385d918a544.jar" />
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="D:\PKL &amp; APPS\collist\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-56a03f34b78bba4b669ae39b7872c99bac4360a3.jar" />
     </item>
     <item
-        jar="D:\collist\app\libs\httpmime-4.1.1.jar"
+        jar="D:\PKL &amp; APPS\collist\app\build\intermediates\exploded-aar\com.getbase\floatingactionbutton\1.9.1\jars\classes.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="d34b163e52a9727101aced60775d51c5085390a1">
-        <dex dex="D:\collist\app\build\intermediates\pre-dexed\debug\httpmime-4.1.1-a7e1a9ef44d30100c87cb51855c55d12f0bd3a9c.jar" />
+        sha1="d4b681a6084ef53d2825520fc77fcaddde351f64">
+        <dex dex="D:\PKL &amp; APPS\collist\app\build\intermediates\pre-dexed\debug\classes-9277b4c4ccf4f791b9a141cd29c9183829a5f982.jar" />
     </item>
     <item
-        jar="D:\collist\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jar="D:\PKL &amp; APPS\collist\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
-        <dex dex="D:\collist\app\build\intermediates\pre-dexed\debug\classes-68a05be457e0ce2445416669b8cb1c6eb03bd38e.jar" />
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="D:\PKL &amp; APPS\collist\app\build\intermediates\pre-dexed\debug\classes-cdb00d16415c670848b1c6ab9e32e783e730101f.jar" />
+    </item>
+    <item
+        jar="D:\PKL &amp; APPS\collist\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="D:\PKL &amp; APPS\collist\app\build\intermediates\pre-dexed\debug\classes-73e7ceb74ec9ffbd61f8c6eefe2d0c49b4c76086.jar" />
     </item>
     <item
         jar="E:\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
-        <dex dex="D:\collist\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-e2315d1b4130b9994f0a06fbbdeb35471a3d426b.jar" />
+        <dex dex="D:\PKL &amp; APPS\collist\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0-e2315d1b4130b9994f0a06fbbdeb35471a3d426b.jar" />
     </item>
     <item
-        jar="D:\collist\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.3\jars\classes.jar"
+        jar="D:\PKL &amp; APPS\collist\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
-        <dex dex="D:\collist\app\build\intermediates\pre-dexed\debug\classes-fb008d17729b0a64652d6e246e41041a492789e9.jar" />
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="D:\PKL &amp; APPS\collist\app\build\intermediates\pre-dexed\debug\classes-3adc7baec38978dda7f7a47462eab08eb1a31bbe.jar" />
     </item>
     <item
-        jar="D:\collist\app\build\intermediates\exploded-aar\com.getbase\floatingactionbutton\1.9.1\jars\classes.jar"
+        jar="D:\PKL &amp; APPS\collist\app\libs\volley.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="d4b681a6084ef53d2825520fc77fcaddde351f64">
-        <dex dex="D:\collist\app\build\intermediates\pre-dexed\debug\classes-daf7bd6c22073e1d6e23b299c623d710d7eeaa4b.jar" />
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="D:\PKL &amp; APPS\collist\app\build\intermediates\pre-dexed\debug\volley-672a9708ad9a49c647ff8b2afc2048ef5e5bf5b0.jar" />
     </item>
     <item
-        jar="D:\collist\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jar="D:\PKL &amp; APPS\collist\app\libs\httpmime-4.1.1.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
-        <dex dex="D:\collist\app\build\intermediates\pre-dexed\debug\classes-27cd7727e3f321773ba42d17c88963c616621d04.jar" />
-    </item>
-    <item
-        jar="D:\collist\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
-        <dex dex="D:\collist\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-9b60bcf09e7ef719c23c76894a99b1c9befeae57.jar" />
+        sha1="d34b163e52a9727101aced60775d51c5085390a1">
+        <dex dex="D:\PKL &amp; APPS\collist\app\build\intermediates\pre-dexed\debug\httpmime-4.1.1-9e87ef330be07c8d733c343e5f5ffc35103be5c0.jar" />
     </item>
 
 </items>

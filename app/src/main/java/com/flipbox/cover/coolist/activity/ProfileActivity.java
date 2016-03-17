@@ -48,7 +48,7 @@ public class ProfileActivity extends ActionBarActivity {
         getSupportActionBar().setTitle(R.string.title_activity_profile);
         db = new SQLiteHandler(this);
         imageProfile = (NetworkImageView)findViewById(R.id.thumbnail);
-        nameProfile = (TextView)findViewById(R.id.Name);
+        nameProfile = (TextView)findViewById(R.id.name);
         jobProfile = (TextView)findViewById(R.id.role);
         location = (TextView)findViewById(R.id.posisi);
         phoneNumber = (TextView)findViewById(R.id.phoneNumber);
@@ -110,7 +110,7 @@ public class ProfileActivity extends ActionBarActivity {
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         View rootView = inflater.inflate(R.layout.activity_profile,container,false);
         imageProfile = (NetworkImageView)rootView.findViewById(R.id.thumbnail);
-        nameProfile = (TextView)rootView.findViewById(R.id.Name);
+        nameProfile = (TextView)rootView.findViewById(R.id.name);
         jobProfile = (TextView)rootView.findViewById(R.id.role);
         location = (TextView)rootView.findViewById(R.id.posisi);
         phoneNumber = (TextView)rootView.findViewById(R.id.phoneNumber);

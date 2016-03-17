@@ -72,7 +72,7 @@ public class EditActivity extends ActionBarActivity {
         getSupportActionBar().setTitle("Edit Profile");
         pDialog = new ProgressDialog(this);
         db = new SQLiteHandler(this);
-        nProf = (EditText)findViewById(R.id.Name);
+        nProf = (EditText)findViewById(R.id.name);
         pProf = (EditText)findViewById(R.id.phoneNumber);
         fProf = (EditText)findViewById(R.id.facebooklink);
         tProf = (EditText)findViewById(R.id.twitterlink);

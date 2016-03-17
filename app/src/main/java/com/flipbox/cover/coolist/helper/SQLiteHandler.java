@@ -21,7 +21,7 @@ public class SQLiteHandler extends SQLiteOpenHelper {
     // Database Version
     private static final int DATABASE_VERSION = 3;
 
-    // Database Name
+    // Database name
     private static final String DATABASE_NAME = "Coolist";
 
     //User table name

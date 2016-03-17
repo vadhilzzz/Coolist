@@ -83,7 +83,7 @@ public class RegisValidFragment extends Fragment {
             url_picture = arg.getString(ARG_URL_PICT);
             id = arg.getInt(ARG_ID);
             company = arg.getInt(ARG_ID_COMPANY);
-            TextView uName = (TextView)getView().findViewById(R.id.Name);
+            TextView uName = (TextView)getView().findViewById(R.id.name);
             NetworkImageView thumbnail = (NetworkImageView)getView().findViewById(R.id.thumbnail);
             TextView uRole = (TextView)getView().findViewById(R.id.role);
             if(imageLoader == null)

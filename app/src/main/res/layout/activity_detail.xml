@@ -24,8 +24,8 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/scrollView"
-            android:layout_toEndOf="@+id/Name"
-            android:layout_toRightOf="@+id/Name"
+            android:layout_toEndOf="@+id/name"
+            android:layout_toRightOf="@+id/name"
             android:fillViewport="false" >
 
             <RelativeLayout
@@ -48,14 +48,14 @@
                 <TextView
                     android:layout_below="@+id/thumbnail"
                     android:layout_marginTop="10dp"
-                    android:id="@+id/Name"
+                    android:id="@+id/name"
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"
                     android:gravity="center"
                     android:textSize="30dp"
                     android:text="Agus Mistiawan"/>
                 <TextView
-                    android:layout_below="@+id/Name"
+                    android:layout_below="@+id/name"
                     android:textSize="20dp"
                     android:layout_width="fill_parent"
                     android:layout_marginTop="5dp"
